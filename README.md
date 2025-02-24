@@ -1,6 +1,6 @@
 # EFFECTS OF FORMULA 1 ON BARCELONA’S RENTAL PRICES (ACCORDING TO BOOKING DATA)
---
-**Abstract**
+
+## Abstract
 
 This study investigates the impact of the Formula 1 Grand Prix in Barcelona on hotel rental prices using computational techniques in web scraping, text mining, and econometric modeling. Our approach involves developing an automated web scraper to extract booking data from Booking.com, capturing hotel prices, amenities, and customer ratings for both Barcelona (treatment group) and Lisbon (control group) across multiple time periods.
 
@@ -11,14 +11,14 @@ For analysis, we implement a Difference-in-Differences (DiD) model with fixed ef
 Our study demonstrates the power of computational methods in economic research, showcasing the integration of web scraping, NLP, and econometrics for data-driven insights. Future improvements include applying advanced machine learning models for price prediction, sentiment analysis of hotel reviews, and expanding the dataset across multiple events for generalizability.
 
 --
-**Authors** 
+## Authors
 - Viktoria Gagua
 - Alex Malo
 - Alejandro Delgado
 
 --
 
-# Methodology  
+## Methodology  
 
 1. **Web Scraping**:  
    - Develop an automated web scraper using Python and Selenium to extract hotel data from Booking.com.  
@@ -51,7 +51,7 @@ Our study demonstrates the power of computational methods in economic research, 
 
   --
 
-  # File Descriptions
+  ## File Descriptions
     - booking_project: Jupyter notebook with the code.
     - NLP_Final_Project: pdf with project analysis.
     - merged_hotel_data: scrapped data.
