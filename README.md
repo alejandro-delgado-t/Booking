@@ -10,13 +10,11 @@ For analysis, we implement a Difference-in-Differences (DiD) model with fixed ef
 
 Our study demonstrates the power of computational methods in economic research, showcasing the integration of web scraping, NLP, and econometrics for data-driven insights. Future improvements include applying advanced machine learning models for price prediction, sentiment analysis of hotel reviews, and expanding the dataset across multiple events for generalizability.
 
---
 ## Authors
 - Viktoria Gagua
 - Alex Malo
 - Alejandro Delgado
 
---
 
 ## Methodology  
 
@@ -49,7 +47,6 @@ Our study demonstrates the power of computational methods in economic research, 
    - Perform sentiment analysis on customer reviews to enrich price determinants.  
    - Extend the study across multiple events and years to improve generalizability.
 
-  --
 
   ## File Descriptions
     - booking_project: Jupyter notebook with the code.
