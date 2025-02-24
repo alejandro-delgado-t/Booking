@@ -40,7 +40,6 @@ Our study demonstrates the power of computational methods in economic research, 
 5. **Validation and Robustness Checks**:  
    - Conduct pre-treatment trend analysis to verify the parallel trends assumption.  
    - Assess model fit and performance using diagnostic tests.  
-   - Explore alternative control cities to validate findings.  
 
 6. **Future Enhancements**:  
    - Apply advanced machine learning models for price prediction.  
